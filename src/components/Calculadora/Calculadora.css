@@ -1,0 +1,29 @@
+
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    padding:1.5rem
+
+}
+.igual{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.btns-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 608px;
+}
+.btns-izquierdo{
+    display: flex;
+    flex-direction: row;
+}
